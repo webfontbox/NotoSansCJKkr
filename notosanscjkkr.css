@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("NotoSansCJKkr-Thin"),
+    url("NotoSansCJKkr-Thin.woff2") format("woff2"),
+    url("NotoSansCJKkr-Thin.woff") format("woff"),
+    url("NotoSansCJKkr-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("NotoSansCJKkr-Light"),
+    url("NotoSansCJKkr-Light.woff2") format("woff2"),
+    url("NotoSansCJKkr-Light.woff") format("woff"),
+    url("NotoSansCJKkr-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("NotoSansCJKkr-DemiLight"),
+    url("NotoSansCJKkr-DemiLight.woff2") format("woff2"),
+    url("NotoSansCJKkr-DemiLight.woff") format("woff"),
+    url("NotoSansCJKkr-DemiLight.ttf") format("truetype");
+  font-weight: 350;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("otoSansCJKkr-Regular"),
+    url("NotoSansCJKkr-Regular.woff2") format("woff2"),
+    url("NotoSansCJKkr-Regular.woff") format("woff"),
+    url("NotoSansCJKkr-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("NotoSansCJKkr-Medium"),
+    url("NotoSansCJKkr-Medium.woff2") format("woff2"),
+    url("NotoSansCJKkr-Medium.woff") format("woff"),
+    url("NotoSansCJKkr-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("NotoSansCJKkr-Bold"),
+    url("NotoSansCJKkr-Bold.woff2") format("woff2"),
+    url("NotoSansCJKkr-Bold.woff") format("woff"),
+    url("NotoSansCJKkr-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  src: local("NotoSansCJKkr-Black"),
+    url("NotoSansCJKkr-Black.woff2") format("woff2"),
+    url("NotoSansCJKkr-Black.woff") format("woff"),
+    url("NotoSansCJKkr-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
